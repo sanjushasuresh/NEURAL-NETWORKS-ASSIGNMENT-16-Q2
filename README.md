@@ -1,1 +1,1 @@
-# NEURAL-NETWORKS-ASSIGNMENT-16-Q2
+Predict the burned area of forest fires with Neural Networks.
