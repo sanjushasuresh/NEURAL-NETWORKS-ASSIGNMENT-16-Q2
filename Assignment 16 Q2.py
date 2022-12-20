@@ -2,7 +2,7 @@
 """
 Created on Thu Dec 01 21:18:39 2022
 
-@author: LENOVO
+@author: SANJUSHA
 """
 
 # pip install keras 
